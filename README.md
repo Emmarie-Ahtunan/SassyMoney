@@ -1,2 +1,1 @@
-# SassyMoney
-Tech Together Digital MLH hackathon
+# Tech Together Digital MLH hackathon
